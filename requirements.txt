@@ -1,0 +1,30 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Financial Data Handling
+yfinance
+pandas-datareader
+
+# Time Series Analysis
+statsmodels
+pmdarima
+tsfresh
+
+# Machine Learning and Deep Learning
+scikit-learn
+tensorflow
+torch
+xgboost
+lightgbm
+
+# Data Visualization
+plotly
+bokeh
+
+# General Utilities
+joblib
+shap
+mlflow
